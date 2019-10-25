@@ -10,3 +10,6 @@ def hello_world():
 def response():
     input = request.args.get("q")
     return chatbot.response(input)
+
+if __name__ == "__main__":
+    app.run(debug=True)
