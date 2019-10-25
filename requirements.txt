@@ -2,4 +2,4 @@ Flask
 sklearn
 nltk
 Cython
-Gunicorn
+gunicorn
