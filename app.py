@@ -12,4 +12,4 @@ def response():
     return chatbot.response(input)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False)
