@@ -1,4 +1,3 @@
-#Credit: github user parulnith for all code
 import io
 import random
 import string # to process standard python strings
